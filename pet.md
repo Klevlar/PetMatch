@@ -10,9 +10,49 @@ what you are looking for in your next pet to produce the most successful
 matches.
 
 ## <ins>**Jiaxin: Pet Owner Profile**</ins>
+* **What kind of pet owner am I?**
+  * A
+* **What kind of Pet(s) am I looking for?**
+  * **Type:** 
+  * **Age:** 
+  * **Size:** 
+* **How many pets am I looking for?**\
+ABC
+* **Do I have any other pets, or have I had any other pets?**\
+ABC
 
 ## <ins>**Jikuan: Pet Owner Profile**</ins>
+* **What kind of pet owner am I?**
+  * A
+* **What kind of Pet(s) am I looking for?**
+  * **Type:** type here
+  * **Age:** 100
+  * **Size:** small
+* **How many pets am I looking for?**\
+ABC
+* **Do I have any other pets, or have I had any other pets?**\
+ABC
 
 ## <ins>**Kelvin: Pet Owner Profile**</ins>
+* **What kind of pet owner am I?**
+  * A
+* **What kind of Pet(s) am I looking for?**
+  * **Type:** type here
+  * **Age:** 100
+  * **Size:** small
+* **How many pets am I looking for?**\
+ABC
+* **Do I have any other pets, or have I had any other pets?**\
+ABC
 
 ## <ins>**Yong-Kang: Pet Owner Profile**</ins>
+* **What kind of pet owner am I?**
+  * A
+* **What kind of Pet(s) am I looking for?**
+  * **Type:** type here
+  * **Age:** 100
+  * **Size:** small
+* **How many pets am I looking for?**\
+ABC
+* **Do I have any other pets, or have I had any other pets?**\
+ABC
