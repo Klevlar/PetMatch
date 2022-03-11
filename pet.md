@@ -35,15 +35,15 @@ ABC
 
 ## <ins>**Kelvin: Pet Owner Profile**</ins>
 * **What kind of pet owner am I?**
-  * A
+  * Current owner of german sheperd.
 * **What kind of Pet(s) am I looking for?**
-  * **Type:** type here
-  * **Age:** 100
-  * **Size:** small
+  * **Type:** Dog
+  * **Age:** Any
+  * **Size:** Medium
 * **How many pets am I looking for?**\
-ABC
+1
 * **Do I have any other pets, or have I had any other pets?**\
-ABC
+Have a German Sheperd
 
 ## <ins>**Yong-Kang: Pet Owner Profile**</ins>
 * **What kind of pet owner am I?**
